@@ -74,7 +74,7 @@ public struct PercentageIndicator: AnimatableModifier {
                     .foregroundColor(fontColor)
                     .font(.system(size: fontSize))
                     .fontWeight(.bold)
-                    .scaleEffect((percentage/2)+0.9)
+//                    .scaleEffect((percentage/2)+0.9)
             }
         }
     }
